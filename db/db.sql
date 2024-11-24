@@ -46,7 +46,7 @@ CREATE TABLE `usuario` (
 --
 
 INSERT INTO `usuario` (`idusuario`, `nombre`, `tipo_documento`, `num_documento`, `direccion`, `telefono`, `email`, `login`, `clave`, `imagen`, `activo`) VALUES
-(1, 'Juan', 'CI', '1723294680', 'UTPL', '0995790580', 'jjron@utpl.edu.ec', 'Juan Ron', '8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918', '1674977378.png', 1);
+(1, 'Juan Ron', 'CI', '1723294680', 'UTPL', '0995790580', 'jjron@utpl.edu.ec', 'juan', '8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918', '1674977378.png', 1);
 
 -- --------------------------------------------------------
 
